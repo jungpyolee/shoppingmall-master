@@ -27,5 +27,6 @@
 <br/>
 <img style="width: 300px" src="./client/gifs/3.gif" alt ="3"/>
 
-4. 결제 기능 -추가 예정
-5. 결제 내역 확인 -추가 예정
+4. 결제 기능 
+- react-paypal-express-checkout 이용하여 결제 연동
+5. 결제 내역 확인
